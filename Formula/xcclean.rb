@@ -1,9 +1,9 @@
 class Xcclean < Formula
   desc "Recover disk space from Xcode."
-  homepage "https://hectique.github.io/xcclean/"
-  url "https://github.com/hectique/xcclean/archive/1.0.tar.gz"
-  version "1.0"
-  sha256 "23af560d848b455d6119453edffa3f86a683f8635e19e35414829b3dbd0d9f8d"
+  homepage "https://saschaholesch.github.io/xcclean/"
+  url "https://github.com/saschaholesch/xcclean/archive/1.0.1.zip"
+  version "1.0.1"
+  sha256 "f29e4455d252ebbbdf435fa95d112ea179df7ff7cdd95ea1eb7b58474a1ad7b4"
 
   depends_on :macos => :el_capitan
 
